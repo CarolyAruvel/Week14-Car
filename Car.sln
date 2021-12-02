@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car", "Car\Car.csproj", "{74DE51ED-40B4-43CB-9AC5-A7E657AA9072}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoviesFromFile", "MoviesFromFile\MoviesFromFile.csproj", "{373B4206-DF14-48FB-90D4-D5B6426BBEFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74DE51ED-40B4-43CB-9AC5-A7E657AA9072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74DE51ED-40B4-43CB-9AC5-A7E657AA9072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74DE51ED-40B4-43CB-9AC5-A7E657AA9072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74DE51ED-40B4-43CB-9AC5-A7E657AA9072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{373B4206-DF14-48FB-90D4-D5B6426BBEFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{373B4206-DF14-48FB-90D4-D5B6426BBEFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{373B4206-DF14-48FB-90D4-D5B6426BBEFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{373B4206-DF14-48FB-90D4-D5B6426BBEFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC62E33E-1534-4753-84E8-61D92BBFF085}
+	EndGlobalSection
+EndGlobal
